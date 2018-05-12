@@ -1,4 +1,8 @@
 _repo: The-Home-and-the-World_7166
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tagore, Rabindranath
@@ -23,6 +27,8 @@ description: "The Home and the World (in the original Bengali, ঘরে বা�
   \ and southern Asia.\nThe novel was translated into English by the author's nephew,\
   \ Surendranath Tagore, with input from the author, in 1919.\n From Wikipedia (CC\
   \ BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7166#The-Home-and-the-World
 gutenberg_bookshelf: Contemporary Reviews
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
